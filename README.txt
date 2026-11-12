@@ -21,3 +21,6 @@ Modularity allows you to swap out the online solution for one of your preference
 
 Modding: CVHDEdit.exe (the editor), MODDING.md and modkit/ (the C++ / Lua
 modding kit). Mods go in mods/; their order is mods/load_order.txt.
+
+
+This project was made using Claude Opus 5.5. I hope you can forgive me for that.
