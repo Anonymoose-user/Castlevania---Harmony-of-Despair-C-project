@@ -1,0 +1,7 @@
+CVHD modding kit
+made:        2026-11-11 22:27:00
+cvhd.exe:    81100800 bytes, modified 2026-11-11 22:25:58
+sha256:      0938952b8715332586fff4fb268b071d95c2dc77f30a59f71a009716fb917178
+CRT:         debug (-MTd, libcmtd/libcpmtd)
+Modules built with this kit only work with this exact cvhd.exe.
+Game data:   data.zip next to cvhd.exe (lookup: mods -> <game>/data/ -> data.zip)

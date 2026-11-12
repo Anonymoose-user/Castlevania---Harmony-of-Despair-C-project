@@ -1,0 +1,4 @@
+{
+  "name": "Lua template",
+  "description": "Example Lua scripts: an event script (logs kills, can halve damage to players) and a Lua enemy (LUA_example_bat). Copy it to start your own mod."
+}
