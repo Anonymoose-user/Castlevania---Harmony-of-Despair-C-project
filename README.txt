@@ -6,8 +6,13 @@ This program uses the PS3 version of the game as its basis.
 You must provide your own legitimate game files to play.
 Required files include the base game and all DLC content
 
+The .exe executable files are unsigned and may trigger Windows security
+If this happens, [do not] panic. I am [not] trying to install ransomware on your computer
+
+Install instructions:
+
 1. Run CVHDDataBuilder.exe. Point it at your copy of the game 
-(the folder with USRDIR) and build. 
+(the folder with USRDIR and DLC files) and build. 
 It writes data.zip next to cvhd.exe.
 
 2. Run cvhd.exe.
@@ -21,6 +26,6 @@ Modularity allows you to swap out the online solution for one of your preference
 
 Modding: CVHDEdit.exe (the editor), MODDING.md and modkit/ (the C++ / Lua
 modding kit). Mods go in mods/; their order is mods/load_order.txt.
-
+The modkit is untested, but CVHDEdit is pretty cool IMO
 
 This project was made using Claude Opus 5.5. I hope you can forgive me for that.
