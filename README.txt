@@ -11,6 +11,7 @@ Required files include the base game and all DLC content
 It writes data.zip next to cvhd.exe.
 
 2. Run cvhd.exe.
+No emulator or additional downloads are necessary
 
 Online play: through the network plugin in net\ (gns.dll, GameNetworkingSockets:
 LAN search, or share your lobby code / ip:port and open that UDP port).
