@@ -16,7 +16,7 @@ Install instructions:
 It writes data.zip next to cvhd.exe.
 
 2. Run cvhd.exe.
-No emulator or additional downloads are necessary.
+No emulator or additional downloads are necessary. (besides FFMPEG to convert audio files)
 There is a mod pre-installed to unlock all items and stages. This can be disabled in the mod menu or CVHDEdit
 
 Online play: through the network plugin in net\ (gns.dll, GameNetworkingSockets:
