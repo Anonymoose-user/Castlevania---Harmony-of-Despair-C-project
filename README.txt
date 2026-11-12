@@ -2,7 +2,7 @@ Castlevania: Harmony of Despair - PC port in C++
 =========================================
 
 This folder has the game program, its tools and mods, but NOT the game's data:
-This program uses the PS3 version of the game as its basis.
+This program uses the PS3 version of the game as it's basis.
 You must provide your own legitimate game files to play.
 Required files include the base game and all DLC content
 
