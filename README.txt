@@ -1,4 +1,4 @@
-Castlevania: Harmony of Despair - PC port
+Castlevania: Harmony of Despair - PC port in C++
 =========================================
 
 This folder has the game program, its tools and mods, but NOT the game's data:
